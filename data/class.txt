@@ -1,0 +1,14 @@
+centrosome  0
+cytoplasm   1
+cytoskeleton    2
+endosome    3
+endoplasmic_reticulum    4
+extracell   5
+Golgi_apparatus 6
+lysosome    7
+microsome   8
+mitochondrion   9
+nucleus 10
+peroxisome  11
+plasma_membrane 12
+synapse 13
